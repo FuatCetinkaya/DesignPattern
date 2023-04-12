@@ -1,0 +1,15 @@
+C:\TestProjects\DesignPattern\DesignPattern\Prototype\bin\Debug\net6.0\Prototype.exe
+C:\TestProjects\DesignPattern\DesignPattern\Prototype\bin\Debug\net6.0\Prototype.deps.json
+C:\TestProjects\DesignPattern\DesignPattern\Prototype\bin\Debug\net6.0\Prototype.runtimeconfig.json
+C:\TestProjects\DesignPattern\DesignPattern\Prototype\bin\Debug\net6.0\Prototype.dll
+C:\TestProjects\DesignPattern\DesignPattern\Prototype\bin\Debug\net6.0\Prototype.pdb
+C:\TestProjects\DesignPattern\DesignPattern\Prototype\obj\Debug\net6.0\Prototype.csproj.AssemblyReference.cache
+C:\TestProjects\DesignPattern\DesignPattern\Prototype\obj\Debug\net6.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\TestProjects\DesignPattern\DesignPattern\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfoInputs.cache
+C:\TestProjects\DesignPattern\DesignPattern\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfo.cs
+C:\TestProjects\DesignPattern\DesignPattern\Prototype\obj\Debug\net6.0\Prototype.csproj.CoreCompileInputs.cache
+C:\TestProjects\DesignPattern\DesignPattern\Prototype\obj\Debug\net6.0\Prototype.dll
+C:\TestProjects\DesignPattern\DesignPattern\Prototype\obj\Debug\net6.0\refint\Prototype.dll
+C:\TestProjects\DesignPattern\DesignPattern\Prototype\obj\Debug\net6.0\Prototype.pdb
+C:\TestProjects\DesignPattern\DesignPattern\Prototype\obj\Debug\net6.0\Prototype.genruntimeconfig.cache
+C:\TestProjects\DesignPattern\DesignPattern\Prototype\obj\Debug\net6.0\ref\Prototype.dll

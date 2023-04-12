@@ -1,0 +1,15 @@
+C:\TestProjects\DesignPattern\DesignPattern\Flyweight\bin\Debug\net6.0\Flyweight.exe
+C:\TestProjects\DesignPattern\DesignPattern\Flyweight\bin\Debug\net6.0\Flyweight.deps.json
+C:\TestProjects\DesignPattern\DesignPattern\Flyweight\bin\Debug\net6.0\Flyweight.runtimeconfig.json
+C:\TestProjects\DesignPattern\DesignPattern\Flyweight\bin\Debug\net6.0\Flyweight.dll
+C:\TestProjects\DesignPattern\DesignPattern\Flyweight\bin\Debug\net6.0\Flyweight.pdb
+C:\TestProjects\DesignPattern\DesignPattern\Flyweight\obj\Debug\net6.0\Flyweight.csproj.AssemblyReference.cache
+C:\TestProjects\DesignPattern\DesignPattern\Flyweight\obj\Debug\net6.0\Flyweight.GeneratedMSBuildEditorConfig.editorconfig
+C:\TestProjects\DesignPattern\DesignPattern\Flyweight\obj\Debug\net6.0\Flyweight.AssemblyInfoInputs.cache
+C:\TestProjects\DesignPattern\DesignPattern\Flyweight\obj\Debug\net6.0\Flyweight.AssemblyInfo.cs
+C:\TestProjects\DesignPattern\DesignPattern\Flyweight\obj\Debug\net6.0\Flyweight.csproj.CoreCompileInputs.cache
+C:\TestProjects\DesignPattern\DesignPattern\Flyweight\obj\Debug\net6.0\Flyweight.dll
+C:\TestProjects\DesignPattern\DesignPattern\Flyweight\obj\Debug\net6.0\refint\Flyweight.dll
+C:\TestProjects\DesignPattern\DesignPattern\Flyweight\obj\Debug\net6.0\Flyweight.pdb
+C:\TestProjects\DesignPattern\DesignPattern\Flyweight\obj\Debug\net6.0\Flyweight.genruntimeconfig.cache
+C:\TestProjects\DesignPattern\DesignPattern\Flyweight\obj\Debug\net6.0\ref\Flyweight.dll

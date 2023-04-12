@@ -1,0 +1,15 @@
+C:\TestProjects\DesignPattern\DesignPattern\Decorator\obj\Debug\net6.0\Decorator.csproj.AssemblyReference.cache
+C:\TestProjects\DesignPattern\DesignPattern\Decorator\obj\Debug\net6.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\TestProjects\DesignPattern\DesignPattern\Decorator\obj\Debug\net6.0\Decorator.AssemblyInfoInputs.cache
+C:\TestProjects\DesignPattern\DesignPattern\Decorator\obj\Debug\net6.0\Decorator.AssemblyInfo.cs
+C:\TestProjects\DesignPattern\DesignPattern\Decorator\obj\Debug\net6.0\Decorator.csproj.CoreCompileInputs.cache
+C:\TestProjects\DesignPattern\DesignPattern\Decorator\bin\Debug\net6.0\Decorator.exe
+C:\TestProjects\DesignPattern\DesignPattern\Decorator\bin\Debug\net6.0\Decorator.deps.json
+C:\TestProjects\DesignPattern\DesignPattern\Decorator\bin\Debug\net6.0\Decorator.runtimeconfig.json
+C:\TestProjects\DesignPattern\DesignPattern\Decorator\bin\Debug\net6.0\Decorator.dll
+C:\TestProjects\DesignPattern\DesignPattern\Decorator\bin\Debug\net6.0\Decorator.pdb
+C:\TestProjects\DesignPattern\DesignPattern\Decorator\obj\Debug\net6.0\Decorator.dll
+C:\TestProjects\DesignPattern\DesignPattern\Decorator\obj\Debug\net6.0\refint\Decorator.dll
+C:\TestProjects\DesignPattern\DesignPattern\Decorator\obj\Debug\net6.0\Decorator.pdb
+C:\TestProjects\DesignPattern\DesignPattern\Decorator\obj\Debug\net6.0\Decorator.genruntimeconfig.cache
+C:\TestProjects\DesignPattern\DesignPattern\Decorator\obj\Debug\net6.0\ref\Decorator.dll

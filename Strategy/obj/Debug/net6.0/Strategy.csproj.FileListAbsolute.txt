@@ -1,0 +1,15 @@
+C:\TestProjects\DesignPattern\DesignPattern\Strategy\bin\Debug\net6.0\Strategy.exe
+C:\TestProjects\DesignPattern\DesignPattern\Strategy\bin\Debug\net6.0\Strategy.deps.json
+C:\TestProjects\DesignPattern\DesignPattern\Strategy\bin\Debug\net6.0\Strategy.runtimeconfig.json
+C:\TestProjects\DesignPattern\DesignPattern\Strategy\bin\Debug\net6.0\Strategy.dll
+C:\TestProjects\DesignPattern\DesignPattern\Strategy\bin\Debug\net6.0\Strategy.pdb
+C:\TestProjects\DesignPattern\DesignPattern\Strategy\obj\Debug\net6.0\Strategy.csproj.AssemblyReference.cache
+C:\TestProjects\DesignPattern\DesignPattern\Strategy\obj\Debug\net6.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\TestProjects\DesignPattern\DesignPattern\Strategy\obj\Debug\net6.0\Strategy.AssemblyInfoInputs.cache
+C:\TestProjects\DesignPattern\DesignPattern\Strategy\obj\Debug\net6.0\Strategy.AssemblyInfo.cs
+C:\TestProjects\DesignPattern\DesignPattern\Strategy\obj\Debug\net6.0\Strategy.csproj.CoreCompileInputs.cache
+C:\TestProjects\DesignPattern\DesignPattern\Strategy\obj\Debug\net6.0\Strategy.dll
+C:\TestProjects\DesignPattern\DesignPattern\Strategy\obj\Debug\net6.0\refint\Strategy.dll
+C:\TestProjects\DesignPattern\DesignPattern\Strategy\obj\Debug\net6.0\Strategy.pdb
+C:\TestProjects\DesignPattern\DesignPattern\Strategy\obj\Debug\net6.0\Strategy.genruntimeconfig.cache
+C:\TestProjects\DesignPattern\DesignPattern\Strategy\obj\Debug\net6.0\ref\Strategy.dll
